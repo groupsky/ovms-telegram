@@ -2,6 +2,7 @@
   "name": "ovms-telegram",
   "version": "1.0.0",
   "description": "OVMS plugin to send telegram messages using bot api",
+  "main": "lib/telegram.js",
   "directories": {
     "lib": "lib"
   },

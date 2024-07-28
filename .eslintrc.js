@@ -11,6 +11,7 @@ module.exports = {
     PubSub: 'readonly',
     performance: 'readonly',
     print: 'readonly',
+    globalThis: 'readonly',
   },
   parserOptions: {
     ecmaFeatures: {
